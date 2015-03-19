@@ -1,1 +1,24 @@
+header{
+  font-size: 50px;
+  font-weight: bold;
+  padding-left: 750px;
+}
+#input_holder{
+  margin-left: 850px;
+}
+#Boxes{
+  width: 615px;
+  margin-left: auto;
+  margin-rgith: auto;
+}
+.Boxes{
+  display: inline-block;
+  width: 100px;
+  height: 150px;
+  border: 2px solid;
+  border-radius: 10px;
+  border-color: #8C8F8C;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
 
